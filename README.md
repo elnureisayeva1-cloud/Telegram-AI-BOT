@@ -26,7 +26,7 @@ A powerful, multilingual AI assistant for Telegram supporting **Claude · ChatGP
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/elnureisayeva1-cloud/sun-ai-bot.git
+git clone https://github.com/elnureisayeva1-cloud/Telegram-AI-BOT.git
 cd sun-ai-bot
 pip install -r requirements.txt
 ```
