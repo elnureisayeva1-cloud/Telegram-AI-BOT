@@ -29,7 +29,6 @@ A powerful, multilingual AI assistant for Telegram supporting **Claude · ChatGP
 git clone https://github.com/elnureisayeva1-cloud/Telegram-AI-BOT.git
 cd Telegram-AI-BOT
 pip install -r requirements.txt
-python bot.py
 ```
 
 Open **`config.py`** and add your tokens:
